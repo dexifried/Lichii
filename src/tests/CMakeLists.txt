@@ -69,6 +69,7 @@ add_executable(tests
     video_core/ampere_fast_fusion.cpp
     video_core/ampere_async_copy.cpp
     video_core/ampere_trap_guards.cpp
+    video_core/pipeline_eviction_policy.cpp
     video_core/async_draw_policy.cpp
     video_core/async_shader_emission.cpp
     video_core/pipeline_build.cpp
